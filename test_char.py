@@ -1,0 +1,5 @@
+text = input("Enter text: ")
+has_digit = any(c.isdigit() for c in text)
+has_upper = any(c.isupper() for c in text)
+print(f"Contains digit: {has_digit}")
+print(f"Contains uppercase: {has_upper}")

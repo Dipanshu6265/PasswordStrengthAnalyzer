@@ -1,5 +1,5 @@
-Password Strength Analyzer
-Overview
+# Password Strength Analyzer
+## Overview
 The Password Strength Analyzer is a robust, Python-based application meticulously crafted to evaluate the security robustness of passwords by leveraging entropy-based scoring and adhering to established cybersecurity best practices, including guidelines from the Open Web Application Security Project (OWASP). This project features both a command-line interface (password_analyzer.py) and an aesthetically enhanced graphical user interface (password_analyzer_gui.py) developed using Tkinter. Designed as a practical demonstration of programming proficiency in Python, GUI development with Tkinter, and foundational cybersecurity principles, this tool serves as an exemplary portfolio piece for aspiring software developers, cybersecurity enthusiasts, and students aiming to showcase technical skills in a professional or academic setting.
 Features
 
